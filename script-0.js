@@ -10141,385 +10141,385 @@ Url: ${Er(t)}`), !0)
                     "@connect": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/@connect",
+                        base: "qa-jackbox.fun/main/@connect",
                         version: "5.606.297"
                     },
                     "the-wheel": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp8/the-wheel",
+                        base: "qa-jackbox.fun/main/pp8/the-wheel",
                         version: "5.12.0"
                     },
                     "drawful-animate": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp8/drawful-animate",
+                        base: "qa-jackbox.fun/main/pp8/drawful-animate",
                         version: "5.28.0"
                     },
                     "@moderator": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/@moderator",
+                        base: "qa-jackbox.fun/main/@moderator",
                         version: "5.610.297"
                     },
                     "awshirt-tjsp": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/tjsp/awshirt",
+                        base: "qa-jackbox.fun/main/tjsp/awshirt",
                         version: "5.20.0"
                     },
                     "ecast-test-client": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/internal/ecast-test-client",
+                        base: "qa-jackbox.fun/main/internal/ecast-test-client",
                         version: "5.0.0"
                     },
                     drawful: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp1/drawful",
+                        base: "qa-jackbox.fun/main/pp1/drawful",
                         version: "5.0.0"
                     },
                     fibbage: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp1/fibbage",
+                        base: "qa-jackbox.fun/main/pp1/fibbage",
                         version: "5.0.0"
                     },
                     lieswatter: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp1/lieswatter",
+                        base: "qa-jackbox.fun/main/pp1/lieswatter",
                         version: "5.0.0"
                     },
                     wordspud: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp1/wordspud",
+                        base: "qa-jackbox.fun/main/pp1/wordspud",
                         version: "5.0.0"
                     },
                     ydkj2015: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp1/ydkj2015",
+                        base: "qa-jackbox.fun/main/pp1/ydkj2015",
                         version: "5.0.0"
                     },
                     auction: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp2/auction",
+                        base: "qa-jackbox.fun/main/pp2/auction",
                         version: "5.11.0"
                     },
                     bombintern: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp2/bombintern",
+                        base: "qa-jackbox.fun/main/pp2/bombintern",
                         version: "5.10.0"
                     },
                     earwax: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp2/earwax",
+                        base: "qa-jackbox.fun/main/pp2/earwax",
                         version: "5.23.0"
                     },
                     fibbage2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp2/fibbage2",
+                        base: "qa-jackbox.fun/main/pp2/fibbage2",
                         version: "5.3.0"
                     },
                     quiplash: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp2/quiplash",
+                        base: "qa-jackbox.fun/main/pp2/quiplash",
                         version: "5.10.0"
                     },
                     awshirt: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp3/awshirt",
+                        base: "qa-jackbox.fun/main/pp3/awshirt",
                         version: "5.10.0"
                     },
                     fakinit: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp3/fakinit",
+                        base: "qa-jackbox.fun/main/pp3/fakinit",
                         version: "5.3.0"
                     },
                     pollposition: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp3/pollposition",
+                        base: "qa-jackbox.fun/main/pp3/pollposition",
                         version: "5.3.0"
                     },
                     quiplash2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp3/quiplash2",
+                        base: "qa-jackbox.fun/main/pp3/quiplash2",
                         version: "5.10.0"
                     },
                     triviadeath: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp3/triviadeath",
+                        base: "qa-jackbox.fun/main/pp3/triviadeath",
                         version: "5.10.0"
                     },
                     bracketeering: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp4/bracketeering",
+                        base: "qa-jackbox.fun/main/pp4/bracketeering",
                         version: "5.3.0"
                     },
                     fibbage3: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp4/fibbage3",
+                        base: "qa-jackbox.fun/main/pp4/fibbage3",
                         version: "5.3.0"
                     },
                     monstermingle: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp4/monstermingle",
+                        base: "qa-jackbox.fun/main/pp4/monstermingle",
                         version: "5.3.0"
                     },
                     overdrawn: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp4/overdrawn",
+                        base: "qa-jackbox.fun/main/pp4/overdrawn",
                         version: "5.3.0"
                     },
                     survivetheinternet: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp4/survivetheinternet",
+                        base: "qa-jackbox.fun/main/pp4/survivetheinternet",
                         version: "5.3.0"
                     },
                     patentlystupid: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp5/patentlystupid",
+                        base: "qa-jackbox.fun/main/pp5/patentlystupid",
                         version: "5.3.0"
                     },
                     rapbattle: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp5/rapbattle",
+                        base: "qa-jackbox.fun/main/pp5/rapbattle",
                         version: "5.3.0"
                     },
                     slingshoot: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp5/slingshoot",
+                        base: "qa-jackbox.fun/main/pp5/slingshoot",
                         version: "5.3.0"
                     },
                     splittheroom: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp5/splittheroom",
+                        base: "qa-jackbox.fun/main/pp5/splittheroom",
                         version: "5.3.0"
                     },
                     ydkj2018: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp5/ydkj2018",
+                        base: "qa-jackbox.fun/main/pp5/ydkj2018",
                         version: "5.3.0"
                     },
                     jokeboat: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp6/jokeboat",
+                        base: "qa-jackbox.fun/main/pp6/jokeboat",
                         version: "5.3.0"
                     },
                     pushthebutton: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp6/pushthebutton",
+                        base: "qa-jackbox.fun/main/pp6/pushthebutton",
                         version: "5.0.0"
                     },
                     ridictionary: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp6/ridictionary",
+                        base: "qa-jackbox.fun/main/pp6/ridictionary",
                         version: "5.3.0"
                     },
                     rolemodels: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp6/rolemodels",
+                        base: "qa-jackbox.fun/main/pp6/rolemodels",
                         version: "5.25.0"
                     },
                     triviadeath2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp6/triviadeath2",
+                        base: "qa-jackbox.fun/main/pp6/triviadeath2",
                         version: "5.3.0"
                     },
                     "blanky-blank": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp7/blanky-blank",
+                        base: "qa-jackbox.fun/main/pp7/blanky-blank",
                         version: "5.3.0"
                     },
                     everyday: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp7/everyday",
+                        base: "qa-jackbox.fun/main/pp7/everyday",
                         version: "5.3.0"
                     },
                     "jackbox-talks": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp7/jackboxtalks",
+                        base: "qa-jackbox.fun/main/pp7/jackboxtalks",
                         version: "5.25.0"
                     },
                     quiplash3: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp7/quiplash3",
+                        base: "qa-jackbox.fun/main/pp7/quiplash3",
                         version: "5.18.0"
                     },
                     worldchamps: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp7/worldchamps",
+                        base: "qa-jackbox.fun/main/pp7/worldchamps",
                         version: "5.144.39"
                     },
                     "acquisitions-inc": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/standalone/acquisitions-inc",
+                        base: "qa-jackbox.fun/main/standalone/acquisitions-inc",
                         version: "5.3.0"
                     },
                     drawful2international: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/standalone/drawful2-international",
+                        base: "qa-jackbox.fun/main/standalone/drawful2-international",
                         version: "5.3.0"
                     },
                     drawful2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/standalone/drawful2",
+                        base: "qa-jackbox.fun/main/standalone/drawful2",
                         version: "5.10.0"
                     },
                     "guesspionage-crowdplay": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/standalone/guesspionage-crowdplay",
+                        base: "qa-jackbox.fun/main/standalone/guesspionage-crowdplay",
                         version: "5.0.0"
                     },
                     "quiplash2-international": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/standalone/quiplash2-international",
+                        base: "qa-jackbox.fun/main/standalone/quiplash2-international",
                         version: "5.3.0"
                     },
                     "survey-bomb": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp8/survey-bomb",
+                        base: "qa-jackbox.fun/main/pp8/survey-bomb",
                         version: "5.67.0"
                     },
                     "triviadeath2-tjsp": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/tjsp/triviadeath2",
+                        base: "qa-jackbox.fun/main/tjsp/triviadeath2",
                         version: "5.30.0"
                     },
                     "murder-detectives": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp8/murder-detectives",
+                        base: "qa-jackbox.fun/main/pp8/murder-detectives",
                         version: "5.0.0"
                     },
                     "quiplash3-tjsp": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/tjsp/quiplash3",
+                        base: "qa-jackbox.fun/main/tjsp/quiplash3",
                         version: "5.78.0"
                     },
                     "apply-yourself": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp8/apply-yourself",
+                        base: "qa-jackbox.fun/main/pp8/apply-yourself",
                         version: "5.0.0"
                     },
                     "antique-freak": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp9/antique-freak",
+                        base: "qa-jackbox.fun/main/pp9/antique-freak",
                         version: "5.94.0"
                     },
                     fourbage: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp9/fourbage",
+                        base: "qa-jackbox.fun/main/pp9/fourbage",
                         version: "5.528.271"
                     },
                     htmf: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp9/htmf",
+                        base: "qa-jackbox.fun/main/pp9/htmf",
                         version: "5.528.271"
                     },
                     lineup: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp9/lineup",
+                        base: "qa-jackbox.fun/main/pp9/lineup",
                         version: "5.297.119"
                     },
                     "range-game": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp9/range-game",
+                        base: "qa-jackbox.fun/main/pp9/range-game",
                         version: "5.528.271"
                     },
                     awshirt2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp10/awshirt2",
+                        base: "qa-jackbox.fun/main/pp10/awshirt2",
                         version: "5.637.297"
                     },
                     "nopus-opus": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp10/nopus-opus",
+                        base: "qa-jackbox.fun/main/pp10/nopus-opus",
                         version: "5.349.128"
                     },
                     "risky-text": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp10/risky-text",
+                        base: "qa-jackbox.fun/main/pp10/risky-text",
                         version: "5.356.132"
                     },
                     "time-trivia": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp10/time-trivia",
+                        base: "qa-jackbox.fun/main/pp10/time-trivia",
                         version: "5.348.128"
                     },
                     "us-them": {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/pp10/us-them",
+                        base: "qa-jackbox.fun/main/pp10/us-them",
                         version: "5.528.271"
                     },
                     captcha: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/ppad/captcha",
+                        base: "qa-jackbox.fun/main/ppad/captcha",
                         version: "5.628.297"
                     },
                     drawful3: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/ppad/drawful3",
+                        base: "qa-jackbox.fun/main/ppad/drawful3",
                         version: "5.603.296"
                     },
                     fakinit2: {
                         file: "script.js",
                         css: ["assets/style-0.css"],
-                        base: "main/ppad/fakinit2",
+                        base: "qa-jackbox.fun/main/ppad/fakinit2",
                         version: "5.596.291"
                     }
                 }
