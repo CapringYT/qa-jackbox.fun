@@ -24600,7 +24600,7 @@ class zh {
     }
     static html(e) {
         if (String(e).match(/<fart>/g)) {
-            const n = new Audio(new URL("/main/@connect/assets/BhWysX6c.wav", import.meta.url).href);
+            const n = new Audio(new URL("/qa-jackbox.fun/main/@connect/assets/BhWysX6c.wav", import.meta.url).href);
             n.volume = .1, n.play()
         }
         const r = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g;
@@ -33806,9 +33806,9 @@ const bre = {
             dismissText: String
         }
     }),
-    Rre = "/main/@connect/assets/Bwlnl62i.png",
-    Sre = "/main/@connect/assets/DN8YV_ih.png",
-    yre = "/main/@connect/assets/Dv-2T4fF.png",
+    Rre = "/qa-jackbox.fun/main/@connect/assets/Bwlnl62i.png",
+    Sre = "/qa-jackbox.fun/main/@connect/assets/DN8YV_ih.png",
+    yre = "/qa-jackbox.fun/main/@connect/assets/Dv-2T4fF.png",
     Are = {
         key: 0,
         class: "image",
@@ -34810,7 +34810,7 @@ const Die = fr({
             }
         }
     }),
-    Bie = "/main/@connect/assets/BP6xhM9y.png",
+    Bie = "/qa-jackbox.fun/main/@connect/assets/BP6xhM9y.png",
     pL = t => (Cl("data-v-711f56b2"), t = t(), wl(), t),
     Mie = {
         class: "jbg password"
