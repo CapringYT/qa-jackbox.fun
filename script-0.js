@@ -3993,7 +3993,7 @@ var Bm = sa((Gm, zs) => {
     const it = class it {
         static get serverUrl() {
             const e = this.getQueryParam("server") ?? this.getQueryParam("s");
-            return !e || e === "live" ? "ecast.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
+            return !e || e === "live" ? "ecast-qa.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
         }
         static isDevelopment() {
             return window.location.hostname === "dev.jackbox.tv" || window.location.hostname === "localhost"
