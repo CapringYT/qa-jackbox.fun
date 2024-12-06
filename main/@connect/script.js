@@ -16678,7 +16678,7 @@ kn(Ks, "locale"), kn(Ks, "supported", ["en", "fr", "it", "de", "es", "es-XL", "p
 const Ua = class Ua {
     static get serverUrl() {
         const e = this.getQueryParam("server") ?? this.getQueryParam("s");
-        return !e || e === "live" ? "ecast.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
+        return !e || e === "live" ? "ecast-qa.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
     }
     static isDevelopment() {
         return window.location.hostname === "dev.jackbox.tv" || window.location.hostname === "localhost"
@@ -35625,7 +35625,7 @@ const Gse = Or(Bse, [
         methods: {
             async load() {
                 try {
-                    const e = await (await fetch("main/@connect/slider/slider.json")).json(),
+                    const e = await (await fetch("qa-jackbox.fun/main/@connect/slider/slider.json")).json(),
                         r = (e == null ? void 0 : e.bannerAds) ?? [];
                     this.banners = r.filter(this.isValidBanner.bind(this)).map(n => ({
                         url: n.href,
