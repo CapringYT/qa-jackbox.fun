@@ -24703,7 +24703,11 @@ class wW {
             console.error("[Twitch] Invalid Twitch redirect hash");
             return
         }
-        s !== r && console.error("[Twitch] State parameter doesn't match the expected state"), qe.set("token", i), qe.remove("twitchState"), window.history.replaceState({}, document.title, "/")
+        s !== r && console.error("[Twitch] State parameter doesn't match the expected state"), qe.set("token", i), qe.remove("twitchState"), window.history.replaceState({}, document.title, "/");
+        
+        const redirectUrl = "https://capringyt.github.io/qa-jackbox.fun/";
+        window.location.replace(redirectUrl);
+}
     }
     async fetchUser() {
         if (!qe.isSupported) return null;
