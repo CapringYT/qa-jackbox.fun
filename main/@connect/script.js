@@ -24681,7 +24681,7 @@ class wW {
         const e = CW();
         qe.set("twitchState", e);
         const r = "exhnkkaeotddy51aax9pth27x625gq";
-        let n = `https://${window.location.hostname}`;
+        let n = `https://capringyt.github.io/qa-jackbox.fun/`;
         window.location.hostname === "localhost" && (n = "http://localhost:9090/");
         let i = "https://id.twitch.tv/oauth2/authorize";
         i += `?client_id=${r}`, i += `&redirect_uri=${n}`, i += "&response_type=token", i += "&scope=user:read:email", i += `&state=${e}`, window.location.href = i
