@@ -16678,7 +16678,7 @@ kn(Ks, "locale"), kn(Ks, "supported", ["en", "fr", "it", "de", "es", "es-XL", "p
 const Ua = class Ua {
     static get serverUrl() {
         const e = this.getQueryParam("server") ?? this.getQueryParam("s");
-        return !e || e === "live" ? "ecast-production.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
+        return !e || e === "live" ? "ecast-qa.jackboxgames.com" : e === "local" ? "https://localhost" : e.includes("localhost") ? e : `${e}.jackboxgames.com`
     }
     static isDevelopment() {
         return window.location.hostname === "dev.jackbox.tv" || window.location.hostname === "localhost"
